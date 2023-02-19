@@ -1,6 +1,6 @@
 # Instructions
 1) Go to public -> index.html and enter your google places api key on the 5. line
-2) in App.js enter your openweathermap api key.
+2) in the App.js file enter your openweathermap api key.
 
 # Getting Started with Create React App
 
